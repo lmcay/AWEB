@@ -1,0 +1,10 @@
+sjh706 > sudo chown -R SJH-706 2199_INITIALS
+sjh706 > ng --version
+cd 2199_INITIALS
+2199_INITIALS > sudo npm install -g @angular/cli@latest
+2199_INITIALS > ng new prelim_lab_1
+cd prelim_lab_1
+cd prelim_lab_1 > sudo npm install
+cd prelim_lab_1 > sudo ng serve
+
+sudo ng generate component comp1
