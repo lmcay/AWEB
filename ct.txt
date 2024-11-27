@@ -7,4 +7,4 @@ cd prelim_lab_1
 cd prelim_lab_1 > sudo npm install
 cd prelim_lab_1 > sudo ng serve
 
-sudo ng generate component comp1
+sudo ng generate component compname
