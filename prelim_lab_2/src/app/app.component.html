@@ -1,16 +1,17 @@
-
 <main class="main">
   <div class="content">
-    
     <app-personal-info></app-personal-info>
-    <app-education></app-education>
-    <app-work-experience></app-work-experience>
-    <app-training></app-training>
-    <app-references></app-references>
-    
+    <hr />
+    <div class="seperate">
+      <app-education class="w-70"></app-education>
+      <app-training class="w-20"></app-training>
+    </div>
+    <hr />
+    <div class="seperate">
+      <app-work-experience class="w-70"></app-work-experience>
+      <app-references class="w-20"></app-references>
+    </div>
   </div>
 </main>
-
-
 
 <router-outlet />

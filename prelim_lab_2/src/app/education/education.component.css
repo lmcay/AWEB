@@ -1,0 +1,17 @@
+.education__block {
+  display: flex;
+  gap: 2rem;
+}
+
+.education__school {
+  width: 30%;
+}
+.education__details {
+  width: 70%;
+}
+
+.education__block__container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}

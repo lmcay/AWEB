@@ -1,0 +1,19 @@
+.personal__info__section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+}
+
+.contact a {
+  color: black;
+}
+
+.contact {
+  line-height: 25px;
+}
+
+img {
+  width: 175px;
+  border-radius: 100%;
+}
