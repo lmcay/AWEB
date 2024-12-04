@@ -8,3 +8,5 @@ cd prelim_lab_1 > sudo npm install
 cd prelim_lab_1 > sudo ng serve
 
 sudo ng generate component compname
+
+sudo chown -R SJH-706 <app_name> - This is to allow us to save files without sudo
